@@ -133,6 +133,7 @@
         <p>LinkedIn: <a href="#" target="_blank">linkedin.com/in/yourname</a></p>
       `
     };
+<p><a href="Mary Seelam Resume May 2024.pdf" target="_blank">Download Full Resume (PDF)</a></p>
 
     function showSection(section) {
       document.getElementById("main-content").innerHTML = content[section];
